@@ -1,0 +1,33 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 50px;
+  align-items: center;
+  background-color: #111;
+  font-family: "Roboto", sans-serif;
+}
+.navLeft {
+  display: flex;
+  align-items: center;
+  font-family: inherit;
+}
+.navLeft span {
+  font-family: inherit;
+  font-weight: bold;
+}
+.navLeft img {
+  width: 50px;
+  margin: 0 10px;
+}
+.navRight {
+  list-style: none;
+  display: flex;
+  width: 40%;
+  justify-content: space-between;
+  align-items: center;
+  font-family: inherit;
+}
+.nav-link {
+  margin: 0 5px;
+  font-family: inherit;
+}
