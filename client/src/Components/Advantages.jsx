@@ -1,4 +1,3 @@
-
 import React from 'react'
 import "./advantages.css"
 import Adv1 from "../assets/Adantage-2.svg";
@@ -12,7 +11,7 @@ const Advantages = () => {
         <img src={Adv2} alt="" />
       </div>
       <div className="right-div">
-       <h2>The Advantages of Our VR That We Offer So Far</h2>
+       <h2>The Advantages of <br /> Our VR That We <br /> Offer So Far</h2>
        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus nostrum aut porro.</p>
        <button>Get It Now</button>
       </div>
