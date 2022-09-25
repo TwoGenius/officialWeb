@@ -1,8 +1,8 @@
 import React from 'react'
 import "./advantages.css"
-import Adv1 from "../Assets/Adantage-2.svg";
-import Adv2 from "../Assets/Advantage-1.svg";
-import Ellipse from "../Assets/Advantages-Circle.svg";
+import Adv1 from "../assets/Adantage-2.svg";
+import Adv2 from "../assets/Advantage-1.svg";
+import Ellipse from "../assets/Advantages-Circle.svg";
 const Advantages = () => {
   return (
     <div className='Advantages'>
