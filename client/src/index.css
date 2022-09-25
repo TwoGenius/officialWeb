@@ -1,8 +1,21 @@
+<<<<<<< HEAD
+=======
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto&display=swap");
+>>>>>>> a6a2a5caa8e0631c6f6f2a182ef7851fbe4bd43d
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  text-decoration: none;
+}
+button {
+  padding: 14px 32px;
+  color: #000;
+  font-weight: bold;
+  border-radius: 4px;
 }
 body{
   background-color: #1E1E1E;
