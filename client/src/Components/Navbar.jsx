@@ -4,15 +4,6 @@ import Logo from "../assets/Logo.png";
 
 export default function Navbar() {
   return (
-<<<<<<< HEAD
-    <div>
-      
-    </div>
-  )
-}
-
-export default Navbar
-=======
     <nav>
       <div className="navLeft">
         <img src={Logo} alt="TG" />
@@ -30,4 +21,3 @@ export default Navbar
     </nav>
   );
 }
->>>>>>> a6a2a5caa8e0631c6f6f2a182ef7851fbe4bd43d
