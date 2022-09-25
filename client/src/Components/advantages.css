@@ -1,11 +1,11 @@
 .Advantages{
-    width: 100vw;
+    /* width: 100vw; */
     height: 100vh;
     background: rgb(204, 82, 82);
 }
 .left-div{
-    /* width: 50vw; */
+    width: 50vw;
 }
 .right-div{
-    /* width: 50vw; */
+    width: 50vw;
 }
