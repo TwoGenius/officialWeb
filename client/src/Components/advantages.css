@@ -1,0 +1,17 @@
+.Advantages{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.left-div{
+    width: 50vw;
+}
+.right-div{
+    /* background: yellow; */
+    width: 20vw;
+    height: 40vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
