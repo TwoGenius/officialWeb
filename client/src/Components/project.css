@@ -1,0 +1,32 @@
+.Projects {
+  background: #242323;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5vw 8vw;
+}
+.Heading_and_button {
+  display: flex;
+  justify-content: space-between;
+}
+.Cards {
+  display: flex;
+  width: 92vw;
+  justify-content: space-around;
+  flex-direction: column;
+}
+.row {
+  display: flex;
+  width: 80vw !important;
+  justify-content: space-evenly;
+}
+.Cards > .row > img {
+  width: 370px;
+  height: 510px;
+}
+.SeeAllBtn {
+  background: white;
+  padding: 0px 35px !important;
+  color: #111;
+  font-weight: bold;
+}
