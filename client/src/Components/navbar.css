@@ -5,6 +5,7 @@ nav {
   align-items: center;
   background-color: #111;
   font-family: "Roboto", sans-serif;
+  min-height: 80px;
 }
 .navLeft {
   display: flex;
