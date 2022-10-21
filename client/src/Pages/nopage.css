@@ -1,0 +1,24 @@
+#nopage {
+  min-height: calc(100vh - 280px);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+#nopage:before {
+  font-family: "Secular One", sans-serif;
+  font-size: 2200%;
+  content: "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 5%;
+}
+.p404 {
+  font-size: 200px;
+}
+.error {
+  font-size: 50px;
+}
