@@ -1,6 +1,6 @@
-import React from 'react'
-import Project1 from '../assets/hackathon.jpg'
-import Project2 from '../assets/learn-to-code.jpg'
+import React from "react";
+import Project1 from "../assets/hackathon.jpg";
+import Project2 from "../assets/learn-to-code.jpg";
 const Projects = () => {
   return (
     <div className="Projects">
@@ -10,13 +10,13 @@ const Projects = () => {
         <button>See All</button>
       </div>
       <div className="Cards">
-         <img src={Project1} alt="" />
-         <img src={Project2} alt="" />
-         <img src={Project2} alt="" />
-         <img src={Project1} alt="" />
+        <img src={Project1} alt="" />
+        <img src={Project2} alt="" />
+        <img src={Project2} alt="" />
+        <img src={Project1} alt="" />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Projects
+export default Projects;
