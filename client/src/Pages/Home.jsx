@@ -19,7 +19,7 @@ export default function Home() {
           </p>
           <div className="introBtns">
             <button className="enrollBtn">Enroll</button>
-            <a href="www.google.com" className="exploreBtn">
+            <a href="https://www.google.com" className="exploreBtn">
               Explore
             </a>
           </div>

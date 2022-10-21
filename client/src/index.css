@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto&family=Secular+One&display=swap');
 
 * {
   margin: 0;
@@ -13,4 +13,9 @@ button {
   color: #000;
   font-weight: bold;
   border-radius: 4px;
+  cursor: pointer;
+}
+main {
+  background-color: #111;
+  min-height: calc(100vh - 80px);
 }

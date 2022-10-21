@@ -1,0 +1,28 @@
+footer {
+  background-color: #111;
+  height: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+
+footer > div{
+  padding: 4% 2%;
+}
+.footLeft {
+  font-size: 20px;
+  font-weight: bold;
+  flex: 3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.footRight {
+  flex: 4;
+}
+.socials{
+  list-style: none;
+  display: flex;
+  width: 150px;
+  margin: 10px;
+  justify-content: space-around;
+}

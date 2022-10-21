@@ -1,14 +1,10 @@
-#landing {
-  background-color: #111;
-  min-height: 100vh;
-}
 .intro {
   display: flex;
   justify-content: space-around;
 }
 .introLeft {
   flex: 1;
-  padding: 150px;
+  padding: 150px 0 0 160px;
 }
 .introHead {
   font-size: 110px;
